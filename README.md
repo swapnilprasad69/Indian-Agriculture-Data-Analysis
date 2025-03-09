@@ -21,9 +21,6 @@ This project analyzes Indian agricultural data using **SQL, Python (Pandas), and
 #### Correlation Analysis
 - A heatmap visualization of **Kharif Sorghum Area vs. Rabi Sorghum Area** shows a correlation coefficient of **0.21**, indicating a weak positive correlation.
 
-  ![Correlation Matrix](![image](https://github.com/user-attachments/assets/d92628a9-2e28-43c9-b8fc-c69525fe73dc)
-)
-
 #### Crop Production Trends
 - Trend analysis on **Wheat, Rice, Pulses, and Oilseeds** across districts
 - Time-series visualization to understand fluctuations in production
