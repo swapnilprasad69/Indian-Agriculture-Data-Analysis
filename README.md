@@ -21,7 +21,8 @@ This project analyzes Indian agricultural data using **SQL, Python (Pandas), and
 #### Correlation Analysis
 - A heatmap visualization of **Kharif Sorghum Area vs. Rabi Sorghum Area** shows a correlation coefficient of **0.21**, indicating a weak positive correlation.
 
-  ![Correlation Matrix](image.png)
+  ![Correlation Matrix](![image](https://github.com/user-attachments/assets/d92628a9-2e28-43c9-b8fc-c69525fe73dc)
+)
 
 #### Crop Production Trends
 - Trend analysis on **Wheat, Rice, Pulses, and Oilseeds** across districts
@@ -33,18 +34,7 @@ This project analyzes Indian agricultural data using **SQL, Python (Pandas), and
 ## Technologies Used
 - **SQL** (Data Extraction & Transformation)
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)** (Data Processing & Visualization)
-- **Power BI / Tableau** (For Dashboard & Interactive Analysis)
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Indian-Agriculture-Analysis.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook to explore EDA and visualizations.
 
 ## Future Scope
 - **Machine Learning Models** for predicting crop yields
